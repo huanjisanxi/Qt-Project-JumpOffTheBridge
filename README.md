@@ -1,1 +1,1 @@
-# Qt-Project-JumpOffTheBridge
+# Qt Project JumpOffTheBridge
