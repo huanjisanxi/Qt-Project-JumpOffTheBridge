@@ -114,6 +114,5 @@
         <file>music/begin.mp3</file>
         <file>music/enter.ogg</file>
         <file>music/cursor.mp4</file>
-        <file>music/success.mp3</file>
     </qresource>
 </RCC>
